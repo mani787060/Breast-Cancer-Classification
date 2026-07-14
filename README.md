@@ -146,5 +146,3 @@ The Breast Cancer Wisconsin dataset is available in **Scikit-Learn** and contain
 ## 🏁 Conclusion
 
 This project demonstrates how Logistic Regression can effectively classify breast tumors as **Malignant** or **Benign** using diagnostic medical features. It covers every stage of the machine learning pipeline, from preprocessing and model training to evaluation and prediction, making it an excellent project for learning healthcare applications of Machine Learning.
-
-
